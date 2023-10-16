@@ -1,2 +1,3 @@
 # Little-games
 Created by 海德工业CDO
+在这里可以找到一些简单的字符小游戏。比如走迷宫……
